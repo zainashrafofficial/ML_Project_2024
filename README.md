@@ -1,4 +1,5 @@
-# House Prices & Number of Rooms Prediction - Machine Learning Semester Project University
+# House Prices & Number of Rooms Prediction
+## Machine Learning Semester Project University
 
 ## Overview
 This repository contains a Machine Learning project focusing on **Classification and Regression** techniques for predicting house prices. The dataset consists of **160,000+ rows**, offering a comprehensive foundation for analyzing various house price trends and factors influencing them.
