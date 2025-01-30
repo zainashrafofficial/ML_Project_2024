@@ -36,6 +36,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/zainashrafofficial/ML_Project_2024.git
 cd ML_Project_2024
+``` 
 
 ## Future Improvements
 - Implementing deep learning models for improved accuracy.
